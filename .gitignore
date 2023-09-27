@@ -1,0 +1,20 @@
+# macOS and VS code dir
+.DS_Store
+.vscode/
+
+# Python related dir
+__pycache__/
+build/
+nlg.egg-info/
+.python-version
+venv/
+
+# Personal development dir
+__misc__/
+
+# Generated files after installation
+*.so
+nlg/analogy_in_C/C/nlg.py
+nlg/analogy_in_C/C/nlg_wrap.c
+nlg/nlgCluster/nlgclu_in_C/nlgclu.py
+nlg/nlgCluster/nlgclu_in_C/nlgclu_wrap.c
