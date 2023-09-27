@@ -48,9 +48,3 @@ License: This module is under GPLv3 license.
 	> \#   
 	> toto : tata :: popo : papa  
 	> toto : popo :: tata : papa  
-
----
-### Contact
-If you encounter any problem, please do not hesitate to contact us.
-- fam.rashel(at)fuji.waseda.jp
-- yves.lepage(at)waseda.jp
